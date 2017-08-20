@@ -1,0 +1,28 @@
+"""
+1. use reduce to find the average 
+2. use  reduce to find variance
+3. use reduce to find standard deviation
+"""
+
+from functools import reduce
+
+
+def average(nums):
+	avg = reduce(lambda a, b: a + b , nums) / len(nums)
+	return avg
+
+def variance(nums):
+	aver = average(nums)
+	var = round((reduce(lambda a, b: a + b,
+		map(lambda x: (x - average(nums)) ** 2 / len(nums), nums))), 2)
+	return var
+
+def standard_deviation(nums):
+	stdev = round(variance(nums) ** (1/2.0), 2)
+	return stdev 
+
+
+height_of_dogs = [600, 470, 170, 430, 300]
+print(average(height_of_dogs))
+print(variance(height_of_dogs))
+print(standard_deviation(height_of_dogs))
