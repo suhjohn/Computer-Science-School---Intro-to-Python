@@ -1,0 +1,533 @@
+1503555315609	geckodriver	INFO	geckodriver 0.18.0
+1503555315613	geckodriver	INFO	Listening on 127.0.0.1:50233
+1503555316690	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555317225	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:15:18.209 plugin-container[58744:2138546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:15:18.209 plugin-container[58744:2138546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555318316	Marionette	INFO	Listening on port 50242
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555318385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555318414	Marionette	DEBUG	loaded listener.js
+1503555318429	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503555319117	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503555319117	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503555319442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=9m6eWantKsfd8Afsvo6ADg"
+1503555320050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503555320052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=9m6eWantKsfd8Afsvo6ADg"
+1503555320053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=9m6eWantKsfd8Afsvo6ADg"
+1503555320409	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=9m6eWantKsfd8Afsvo6ADg"
+1503555328209	geckodriver	INFO	geckodriver 0.18.0
+1503555328213	geckodriver	INFO	Listening on 127.0.0.1:50305
+1503555329254	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555329730	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:15:30.695 plugin-container[58747:2138861] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:15:30.695 plugin-container[58747:2138861] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555330814	Marionette	INFO	Listening on port 50315
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555330845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555330878	Marionette	DEBUG	loaded listener.js
+1503555330892	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503555331602	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503555331602	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503555331952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=A2-eWbmbC8fd8Afsvo6ADg"
+1503555332402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503555332404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=A2-eWbmbC8fd8Afsvo6ADg"
+1503555332406	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=A2-eWbmbC8fd8Afsvo6ADg"
+1503555332806	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=A2-eWbmbC8fd8Afsvo6ADg"
+1503555340351	geckodriver	INFO	geckodriver 0.18.0
+1503555340355	geckodriver	INFO	Listening on 127.0.0.1:50380
+1503555341396	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503555341873	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:15:42.877 plugin-container[58752:2139165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:15:42.878 plugin-container[58752:2139165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503555343016	Marionette	INFO	Listening on port 50389
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503555343090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503555343122	Marionette	DEBUG	loaded listener.js
+1503555343136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503555343916	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503555343916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503555344251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=D2-eWcDUF9Pd8Af5v4i4Bw"
+1503555344761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503555344763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=D2-eWcDUF9Pd8Af5v4i4Bw"
+1503555344765	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=D2-eWcDUF9Pd8Af5v4i4Bw"
+1503555345090	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=D2-eWcDUF9Pd8Af5v4i4Bw"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1503556008294	geckodriver	INFO	geckodriver 0.18.0
+1503556008299	geckodriver	INFO	Listening on 127.0.0.1:50738
+1503556009345	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556009841	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:26:50.886 plugin-container[58795:2143472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:26:50.887 plugin-container[58795:2143472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556011000	Marionette	INFO	Listening on port 50747
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556011035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556011065	Marionette	DEBUG	loaded listener.js
+1503556011079	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556011794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556011794	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556012172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=q3GeWdmdFMrd8AeM4YSQDQ"
+1503556012645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556012646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=q3GeWdmdFMrd8AeM4YSQDQ"
+1503556012648	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=q3GeWdmdFMrd8AeM4YSQDQ"
+1503556012775	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=q3GeWdmdFMrd8AeM4YSQDQ"
+1503556175753	geckodriver	INFO	geckodriver 0.18.0
+1503556175757	geckodriver	INFO	Listening on 127.0.0.1:50816
+1503556176804	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556177309	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:29:38.370 plugin-container[58805:2144964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:29:38.371 plugin-container[58805:2144964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556178493	Marionette	INFO	Listening on port 50825
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556178597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556178627	Marionette	DEBUG	loaded listener.js
+1503556178642	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556179479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556179480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556179822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=UnKeWZbiNcPd8Ae5pqSoDw"
+1503556180281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556180282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=UnKeWZbiNcPd8Ae5pqSoDw"
+1503556180284	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=UnKeWZbiNcPd8Ae5pqSoDw"
+1503556180413	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=UnKeWZbiNcPd8Ae5pqSoDw"
+1503556233010	geckodriver	INFO	geckodriver 0.18.0
+1503556233014	geckodriver	INFO	Listening on 127.0.0.1:50897
+1503556234056	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556234576	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:30:35.638 plugin-container[58813:2145761] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:30:35.638 plugin-container[58813:2145761] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556235758	Marionette	INFO	Listening on port 50906
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556235844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556235875	Marionette	DEBUG	loaded listener.js
+1503556235889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556236541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556236541	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556236874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=jHKeWcO5BtLo8AfBg4lA"
+1503556237417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556237418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=jHKeWcO5BtLo8AfBg4lA"
+1503556237420	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=jHKeWcO5BtLo8AfBg4lA"
+1503556237805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=jHKeWcO5BtLo8AfBg4lA"
+1503556255459	geckodriver	INFO	geckodriver 0.18.0
+1503556255463	geckodriver	INFO	Listening on 127.0.0.1:50989
+1503556256522	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556257064	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:30:58.139 plugin-container[58817:2146192] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:30:58.141 plugin-container[58817:2146192] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556258397	Marionette	INFO	Listening on port 50998
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556258420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556258450	Marionette	DEBUG	loaded listener.js
+1503556258464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556259079	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556259079	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556259415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=onKeWYbnKMHo8AeMkpOwDA"
+1503556259885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556259887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=onKeWYbnKMHo8AeMkpOwDA"
+1503556259889	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=onKeWYbnKMHo8AeMkpOwDA"
+1503556260251	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=onKeWYbnKMHo8AeMkpOwDA"
+1503556276585	geckodriver	INFO	geckodriver 0.18.0
+1503556276590	geckodriver	INFO	Listening on 127.0.0.1:51066
+1503556277634	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556278144	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:31:19.221 plugin-container[58821:2146594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:31:19.222 plugin-container[58821:2146594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556279346	Marionette	INFO	Listening on port 51079
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556279429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556279458	Marionette	DEBUG	loaded listener.js
+1503556279473	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556280143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556280144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556280488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=t3KeWd6oK9To8AfI2YSgBw"
+1503556280939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556280941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=t3KeWd6oK9To8AfI2YSgBw"
+1503556280943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=t3KeWd6oK9To8AfI2YSgBw"
+1503556282182	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=t3KeWd6oK9To8AfI2YSgBw"
+1503556299030	geckodriver	INFO	geckodriver 0.18.0
+1503556299035	geckodriver	INFO	Listening on 127.0.0.1:51148
+1503556300078	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556300559	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:31:41.576 plugin-container[58825:2147071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:31:41.577 plugin-container[58825:2147071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556301695	Marionette	INFO	Listening on port 51157
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556301765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556301793	Marionette	DEBUG	loaded listener.js
+1503556301807	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556302505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556302505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556302835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556303320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303321	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303662	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303975	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556303976	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=znKeWbGpA9Ho8AeDqYvgDw"
+1503556304237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503556304469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...737.776.0.811.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.LGg9mzVYAG4"
+1503556304713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503556304717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...737.776.0.811.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.LGg9mzVYAG4"
+1503556304718	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...737.776.0.811.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.LGg9mzVYAG4"
+1503556304747	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...737.776.0.811.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.LGg9mzVYAG4"
+1503556310684	geckodriver	INFO	geckodriver 0.18.0
+1503556310690	geckodriver	INFO	Listening on 127.0.0.1:51225
+1503556311729	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556312304	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:31:53.390 plugin-container[58828:2147362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:31:53.390 plugin-container[58828:2147362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556313519	Marionette	INFO	Listening on port 51234
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556313613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556313643	Marionette	DEBUG	loaded listener.js
+1503556313658	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556314323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556314323	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556314653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=2XKeWai-NdDo8AftpIbwCA"
+1503556315134	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556315136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=2XKeWai-NdDo8AftpIbwCA"
+1503556315138	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=2XKeWai-NdDo8AftpIbwCA"
+1503556315472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=2XKeWai-NdDo8AftpIbwCA"
+1503556357992	geckodriver	INFO	geckodriver 0.18.0
+1503556357997	geckodriver	INFO	Listening on 127.0.0.1:51304
+1503556359044	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556359561	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:32:40.605 plugin-container[58836:2148040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:32:40.605 plugin-container[58836:2148040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556360726	Marionette	INFO	Listening on port 51313
+1503556360738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556360768	Marionette	DEBUG	loaded listener.js
+1503556360782	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556361452	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556361452	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556361782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556362234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556362235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556362237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556363443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556363592	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556363754	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556363755	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=CXOeWaiKAdDo8AftpIbwCA"
+1503556363778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503556364265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...1578.1616.0.1651.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vubHKFDhS84"
+1503556364405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...1578.1616.0.1651.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vubHKFDhS84"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1503556995525	geckodriver	INFO	geckodriver 0.18.0
+1503556995529	geckodriver	INFO	Listening on 127.0.0.1:51436
+1503556996577	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503556997135	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:43:18.233 plugin-container[58864:2152385] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:43:18.233 plugin-container[58864:2152385] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503556998335	Marionette	INFO	Listening on port 51445
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503556998364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503556998393	Marionette	DEBUG	loaded listener.js
+1503556998407	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503556999064	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503556999064	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503556999384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503556999842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503556999844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503556999846	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503557000224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503557000443	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503557000658	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503557000659	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=hnWeWcjKJYH-8wfQ5LyICg"
+1503557000916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503557001301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...805.855.0.892.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.Z6voTgSEBvI"
+1503557001543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503557001547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...805.855.0.892.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.Z6voTgSEBvI"
+1503557001549	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...805.855.0.892.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.Z6voTgSEBvI"
+1503557002092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...805.855.0.892.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.Z6voTgSEBvI"
+1503557018121	geckodriver	INFO	geckodriver 0.18.0
+1503557018124	geckodriver	INFO	Listening on 127.0.0.1:51520
+1503557019173	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503557019680	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:43:40.691 plugin-container[58869:2152817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:43:40.692 plugin-container[58869:2152817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503557020819	Marionette	INFO	Listening on port 51529
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503557020860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557020888	Marionette	DEBUG	loaded listener.js
+1503557020902	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557021525	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557021525	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557021914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557022383	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503557022384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557022386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557022765	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557022927	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557023087	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557023088	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=nXWeWeLmBor-8we66by4Dw"
+1503557023336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503557023521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...780.820.0.854.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.oWiwRXdnRs0"
+1503557023763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503557023767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...780.820.0.854.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.oWiwRXdnRs0"
+1503557023768	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...780.820.0.854.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.oWiwRXdnRs0"
+1503557023800	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...780.820.0.854.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.oWiwRXdnRs0"
+1503557037458	geckodriver	INFO	geckodriver 0.18.0
+1503557037464	geckodriver	INFO	Listening on 127.0.0.1:51597
+1503557038509	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503557039048	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:44:00.152 plugin-container[58873:2153284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:44:00.153 plugin-container[58873:2153284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503557040261	Marionette	INFO	Listening on port 51606
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503557040310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557040341	Marionette	DEBUG	loaded listener.js
+1503557040355	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557041036	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557041036	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557041359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557041715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503557041716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557041719	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557042068	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557042217	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557042372	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557042373	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=sHWeWbiSI4b-8weT7rbYCA"
+1503557042611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503557042846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...700.739.0.772.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.HECttbtg3OE"
+1503557043087	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503557043090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...700.739.0.772.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.HECttbtg3OE"
+1503557043092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...700.739.0.772.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.HECttbtg3OE"
+1503557043123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...700.739.0.772.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.HECttbtg3OE"
+1503557061961	geckodriver	INFO	geckodriver 0.18.0
+1503557061965	geckodriver	INFO	Listening on 127.0.0.1:51691
+1503557063020	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503557063548	Marionette	INFO	Enabled via --marionette
+2017-08-24 15:44:24.592 plugin-container[58877:2153695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-24 15:44:24.593 plugin-container[58877:2153695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503557064716	Marionette	INFO	Listening on port 51700
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503557064820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557064850	Marionette	DEBUG	loaded listener.js
+1503557064864	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557065573	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557065573	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557065909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557066367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503557066369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557066370	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557066740	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557066893	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557067062	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557067063	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=yXWeWYfZCJH-8wfpxrwY"
+1503557067305	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503557067482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...752.791.0.825.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.82IqZN5G800"
+1503557067724	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503557067727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...752.791.0.825.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.82IqZN5G800"
+1503557067728	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...752.791.0.825.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.82IqZN5G800"
+1503557068306	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...752.791.0.825.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.82IqZN5G800"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1503654308689	geckodriver	INFO	geckodriver 0.18.0
+1503654308695	geckodriver	INFO	Listening on 127.0.0.1:61528
+1503654309740	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503654310347	Marionette	INFO	Enabled via --marionette
+2017-08-25 18:45:11.452 plugin-container[68278:2445076] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-25 18:45:11.452 plugin-container[68278:2445076] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503654311592	Marionette	INFO	Listening on port 61537
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503654311627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503654311657	Marionette	DEBUG	loaded listener.js
+1503654311673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503654313323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503654313323	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503654313723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654314308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503654314309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654314311	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654314716	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654314867	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654315040	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654315041	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=p_GfWaihM66L8Qf1p7iQBQ"
+1503654315313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503654315631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...770.814.0.848.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.wVGM_GaaTYg"
+1503654315810	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...770.814.0.848.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.wVGM_GaaTYg"
+2017-08-25 18:48:25.139 plugin-container[68293:2447047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-25 18:48:25.139 plugin-container[68293:2447047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503654601348	geckodriver	INFO	geckodriver 0.18.0
+1503654601353	geckodriver	INFO	Listening on 127.0.0.1:61948
+1503654602394	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503654602930	Marionette	INFO	Enabled via --marionette
+2017-08-25 18:50:03.970 plugin-container[68306:2448187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-25 18:50:03.971 plugin-container[68306:2448187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503654604098	Marionette	INFO	Listening on port 61961
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503654604191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503654604222	Marionette	DEBUG	loaded listener.js
+1503654604239	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503654605024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503654605024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503654605325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654605865	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503654605867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654605868	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654606295	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654606439	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654606666	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654606667	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=zPKfWbmjF7CL8Qfa75WQDg"
+1503654606956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503654607195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...782.822.0.853.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vkEzgTInsHk"
+1503654607435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503654607438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...782.822.0.853.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vkEzgTInsHk"
+1503654607439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...782.822.0.853.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vkEzgTInsHk"
+1503654607689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...782.822.0.853.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.vkEzgTInsHk"
+1503654618091	geckodriver	INFO	geckodriver 0.18.0
+1503654618094	geckodriver	INFO	Listening on 127.0.0.1:62099
+1503654619139	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503654619625	Marionette	INFO	Enabled via --marionette
+2017-08-25 18:50:20.680 plugin-container[68309:2448605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-25 18:50:20.680 plugin-container[68309:2448605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503654620791	Marionette	INFO	Listening on port 62112
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503654620821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503654620851	Marionette	DEBUG	loaded listener.js
+1503654620865	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503654621863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503654621863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503654622186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654622688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503654622690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654622692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654623053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654623202	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654623344	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654623345	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=3fKfWe9G4s7yB6f2sJgM"
+1503654623630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503654623832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...605.646.0.680.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.cmDdwJTo9R4"
+1503654623962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...605.646.0.680.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.cmDdwJTo9R4"
+1503654634785	geckodriver	INFO	geckodriver 0.18.0
+1503654634789	geckodriver	INFO	Listening on 127.0.0.1:62251
+1503654635834	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1503654636358	Marionette	INFO	Enabled via --marionette
+1503654637437	Marionette	INFO	Listening on port 62264
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-08-25 18:50:37.497 plugin-container[68313:2449103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-25 18:50:37.498 plugin-container[68313:2449103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb003, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1503654637528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503654637556	Marionette	DEBUG	loaded listener.js
+1503654637571	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503654638418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503654638418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503654638749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654639419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503654639420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654639422	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654639809	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654639954	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654640179	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654640180	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.kr/?gfe_rd=cr&ei=7fKfWebsLOjO8ge-_bbYCA"
+1503654640215	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1503654640639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...883.922.0.956.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.zMeBdEhb5mw"
+1503654640880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503654640883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...883.922.0.956.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.zMeBdEhb5mw"
+1503654640885	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...883.922.0.956.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.zMeBdEhb5mw"
+1503654641462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/search?source=hp&q=linus+torvalds+nvidia&oq=linus+torvalds+nvidia&gs_l=psy-ab.12...883.922.0.956.21.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..21.0.0.zMeBdEhb5mw"
