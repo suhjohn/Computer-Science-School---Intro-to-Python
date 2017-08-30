@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	color: #5E6053;
+	font-weight:300;
+	letter-spacing: .9px;
+
+}
+h3{
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+hr { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 3px;
+    border-color:#c0c0c0; 
+    border-style:solid;
+}
+.udacitylogo{
+	max-width: 100px;
+	max-height: 100px;
+	margin-top: 20px;
+}
+.top-row{
+	margin-top: 20px;
+}
+.columnimage{
+	display:block;
+	max-width: 370px;
+	height: auto;
+}
+.image-row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.text-muted{
+	color: #BCBBBB;
+}
+.text-thin{
+	font-weight: 200;
+}
+.mega-title{
+	font-size: 72;
+}
